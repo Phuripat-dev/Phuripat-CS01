@@ -1,5 +1,5 @@
 
-A = int(input("Please input first score : "))
+A = int(input("Please input first score : ")) 
 B = int(input("Please input second score : "))
 C = int(input("Please input third score : "))
 
